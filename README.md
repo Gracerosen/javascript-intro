@@ -314,9 +314,9 @@ console.log(`Billy is ${6+8} years old.`);
 
 
 
-let Keyword - let creates a local variable in JavaScript & can be re-assigned. Initialization during the declaration of a let variable is optional. A let variable will contain undefined if nothing is assigned to it.
+<strong>let Keyword</strong> - let creates a local variable in JavaScript & can be re-assigned. Initialization during the declaration of a let variable is optional. A let variable will contain undefined if nothing is assigned to it.
 
-let count; 
+<strong>let count; </strong>
 console.log(count); // Prints: undefined
 count = 10;
 console.log(count); // Prints: 10
@@ -350,7 +350,7 @@ let displayText = 'Your ' + service  + ' bill is due on ' +  month + '.';
 console.log(displayText);
 // Prints: Your credit card bill is due on May 30th.
 
-
+<strong>CONCLUSION</strong>
 This is intended only as an introduction and summary - these principals can be applied in theory in various ways and tested to memorise statements, see what data they can return, implement multiple data types into one application, evaluate literals, perform various calculations, call functions or methods in different ways, run tests, represent data in different ways, apply best practice, and create simple applications using the basics - obviously this can be extended and built upon further.
 
 In some of my other repos i have mini apps using these principals/concepts for example calculators, sign in pages, games or timetables.
