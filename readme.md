@@ -1,4 +1,5 @@
-# Introduction-to-Javascript-for-testing-in-code
+# javascript-intro
+for-testing-in-code
 
 <strong>INTRO</strong>
 This is intended only as an introduction and summary - these principals can be applied in theory in various ways and tested to memorise statements, see what data they can return, implement multiple data types into one application, evaluate literals, perform various calculations, call functions or methods in different ways, run tests, represent data in different ways, apply best practice, and create simple applications using the basics - obviously this can be extended and built upon further.
