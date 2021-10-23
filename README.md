@@ -18,7 +18,7 @@ Math.random();
 
 
 
-<strong>Libraries<.strong> - contain methods that can be called by appending the library name with a period ., the method name, and a set of parentheses.
+<strong>Libraries</strong> - contain methods that can be called by appending the library name with a period ., the method name, and a set of parentheses.
 
 Math.random();
 // ☝️ Math is the library
