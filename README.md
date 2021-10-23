@@ -1,6 +1,6 @@
 # Introduction-to-Javascript-for-testing-in-code
 
-
+<strong>INTRO</strong>
 This is intended only as an introduction and summary - these principals can be applied in theory in various ways and tested to memorise statements, see what data they can return, implement multiple data types into one application, evaluate literals, perform various calculations, call functions or methods in different ways, run tests, represent data in different ways, apply best practice, and create simple applications using the basics - obviously this can be extended and built upon further.
 
 In some of my other repos i have mini apps using these principals/concepts for example calculators, sign in pages, games or timetables.
@@ -37,17 +37,14 @@ console.log('Hi there!');
 
 <strong>Numbers</strong> (primitive data type. incorporates the set of all integers and floating point numbers.)
 
-let amount = 6;
-let price = 4.99;
+let amount = 6; let price = 4.99;
 
 
 
 <strong>String .length</strong> - The .length property of a string returns the number of characters that make up the string.
 
-let message = 'good nite';
-console.log(message.length);
-// Prints: 9
- 
+let message = 'good nite'; console.log(message.length); 
+// Prints: 9 
 console.log('howdy'.length);
 // Prints: 5
 
@@ -125,7 +122,7 @@ let x = null;
 
 
 
-<strong>Strings</strong> (pprimitive data type. any grouping of characters (letters, spaces, numbers, or symbols) surrounded by single quotes ' or double quotes ".
+<strong>Strings</strong> (primitive data type. any grouping of characters (letters, spaces, numbers, or symbols) surrounded by single quotes ' or double quotes ".
 
 let single = 'Wheres my bandit hat?';
 let double = "Wheres my bandit hat?";
@@ -301,11 +298,11 @@ const numberOfFingers = 20;
 
 <strong>Template Literals</strong> - strings that allow embedded expressions, ${expression}. While regular strings use single ' or double " quotes, template literals use backticks instead.
 
-let name = "Codecademy";
+let name = "Someones program";
 console.log(`Hello, ${name}`); 
-// Prints: Hello, Codecademy
-console.log(`Billy is ${6+8} years old.`); 
-// Prints: Billy is 14 years old.
+// Prints: Hello, Someones Program
+console.log(`Someone is ${30+8} years old.`); 
+// Prints: Someone is 14 years old.
 
 
 
